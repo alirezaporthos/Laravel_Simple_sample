@@ -18,9 +18,10 @@
                     @endif
                     
                     <h1>Dashboard</h1>
-                    {{--
+                    
+                    
                     <a href="posts/create" class="btn btn-primary">Create Post</a>
-                    <br></br>
+                    <br>
                     
                     @if(count($posts) > 0)
                     <h3>Your Posts</h3>
@@ -49,6 +50,5 @@
             </div>
         </div>
     </div>
-    --}}
-</div>
+    </div>
 @endsection
